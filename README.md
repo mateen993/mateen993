@@ -12,19 +12,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full Stack Web Developer** on a mission to build clean, performant, and user-focused web applications. I thrive at the intersection of design and engineering — turning ideas into real, functional products.
 
-- 🔭 Currently building projects across the **full web stack** — from pixel-perfect UIs to scalable back-end APIs
-- 🌱 Deepening my expertise in **React**, **Node.js**, **databases**, and **deployment pipelines**
-- 🤝 Open to **collaborations** on meaningful web development projects
-- 💡 Always curious, always learning — every line of code is a step forward
-- 📫 Reach me at **mateenabdul993@gmail.com**
+- Currently building projects across the **full web stack** — from pixel-perfect UIs to scalable back-end APIs
+- Deepening my expertise in **React**, **Node.js**, **databases**, and **deployment pipelines**
+- Open to **collaborations** on meaningful web development projects
+- Always curious, always learning — every line of code is a step forward
+- Reach me at **mateenabdul993@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Web Developer** on a mission to build clean, perfo
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -55,11 +55,11 @@ I'm a passionate **Full Stack Web Developer** on a mission to build clean, perfo
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🏗️ Building full stack applications from concept to deployment
-- 📚 Mastering modern JavaScript frameworks and REST API design
-- 🔍 Exploring best practices in web performance and accessibility
+- Building full stack applications from concept to deployment
+- Mastering modern JavaScript frameworks and REST API design
+- Exploring best practices in web performance and accessibility
 
 ---
 
@@ -67,9 +67,9 @@ I'm a passionate **Full Stack Web Developer** on a mission to build clean, perfo
 
 I'm actively looking to collaborate on:
 
-- 🌐 **Web apps** that solve real problems
-- 🧩 **Open source projects** where I can contribute and grow
-- 💼 **Portfolio-worthy projects** with passionate developers
+-  **Web apps** that solve real problems
+- **Open source projects** where I can contribute and grow
+- **Portfolio-worthy projects** with passionate developers
 
 If you have an idea or a project in mind — **let's build something great together.**
 
